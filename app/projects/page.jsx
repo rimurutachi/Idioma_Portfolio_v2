@@ -63,7 +63,7 @@ const projects = [
   {
     title: "Idioma Portfolio V1",
     description:
-      "First version of developers' portfolio.",
+      "First version of developer's portfolio.",
     image: "/assets/Idioma_PortfolioV1.png",
     technologies: ["React Vite", "CSS3", "Bootstrap"],
     github: "https://github.com/rimurutachi/Idioma_WebPortfolio",
