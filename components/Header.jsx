@@ -43,8 +43,8 @@ const Header = () => {
               <div>
                 <div className="px-2 py-3 mb-16">
                   <DownloadButton
-                    fileUrl="/assets/Idioma_CV.png"
-                    fileName="Idioma_CV.png"
+                    fileUrl="/assets/Idioma_CV.pdf"
+                    fileName="Idioma_CV.pdf"
                     buttonText="Download CV"
                   />
                 </div>

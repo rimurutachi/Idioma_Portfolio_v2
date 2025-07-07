@@ -53,8 +53,8 @@ const Resume = () => {
           className="flex justify-center mb-8"
         >
           <DownloadButton
-            fileUrl="/assets/Idioma_CV.png"
-            fileName="Idioma_CV.png"
+            fileUrl="/assets/Idioma_CV.pdf"
+            fileName="Idioma_CV.pdf"
             buttonText="Download CV"
           />
         </motion.div>
